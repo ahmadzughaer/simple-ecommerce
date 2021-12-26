@@ -1,0 +1,10 @@
+button {
+    background: transparent;
+    color: tomato;
+    cursor: pointer;
+}
+
+button:hover {
+    background: tomato;
+    color: #fff;
+}

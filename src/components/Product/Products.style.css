@@ -1,0 +1,15 @@
+.Link {
+    text-decoration: none;
+    color: darkred;
+   
+}
+.List {
+  display: flex;
+  margin: 1%;
+
+}
+
+.details {
+    text-align: left;
+    padding: 2%;
+}
